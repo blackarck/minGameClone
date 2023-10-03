@@ -1,0 +1,2 @@
+# minGameClone
+Minimalistic game clones
